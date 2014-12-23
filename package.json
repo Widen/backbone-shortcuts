@@ -1,0 +1,22 @@
+{
+  "name": "backbone-shortcuts",
+  "version": "0.0.1",
+  "description": "Backbone.js + Keymaster.js = Backbone.Shortcuts",
+  "main": " ",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Widen/backbone-shortcuts.git"
+  },
+  "author": "Bryan Goines",
+  "license": "unknown",
+  "bugs": {
+    "url": "https://github.com/Widen/backbone-shortcuts/issues"
+  },
+  "homepage": "https://github.com/Widen/backbone-shortcuts"
+}
